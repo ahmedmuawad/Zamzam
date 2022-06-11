@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563025215191",
+    "project_id": "zamzam-aee9c",
+    "storage_bucket": "zamzam-aee9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563025215191:android:a66738e112b8ea486e7a92",
+        "android_client_info": {
+          "package_name": "com.zamzamclient.stopgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563025215191-icp5solbhiasu6s7015724fr9d7ltqam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5VDb5q0T7sCs_7ZtCJuLLikdgcXRagxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563025215191-icp5solbhiasu6s7015724fr9d7ltqam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
